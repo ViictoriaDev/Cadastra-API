@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yq4A07WSsJfUz1x/PuP5v3vfJkNTz5RvUqxHsw8D+68=",
+  "Source": "CadastraAPI",
+  "BasePath": "_content/CadastraAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

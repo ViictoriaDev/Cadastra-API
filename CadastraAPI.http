@@ -1,0 +1,6 @@
+@CadastraAPI_HostAddress = http://localhost:5209
+
+GET {{CadastraAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
