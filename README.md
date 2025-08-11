@@ -1,7 +1,7 @@
 # Cadastra-API
 Projeto API em .NET para gerenciar cadastro de pessoa jurídica e usuários associados, com funcionalidades para: adicionar, editar, inativar, excluir e consultar registros por filtro. Implementa integração com banco de dados e boas práticas.
 
-## Funcionalidades
+## Funcionalidades✅
 
 - CRUD de pessoa jurídica (Nome Fantasia, Razão Social, CNPJ, Endereço, Sócios, Tipo)
 - CRUD de usuários vinculados às empresas
@@ -9,14 +9,14 @@ Projeto API em .NET para gerenciar cadastro de pessoa jurídica e usuários asso
 - Consultas por tipo de empresa e perfil de usuário
 - Interação via Swagger
 
-## Tecnologias
+## Tecnologias✅
 
 - .NET 9
 - Entity Framework (SQL Server)
 - Swagger para testes da API
 
 
-## Como rodar o projeto
+## Como rodar o projeto👩🏻‍💻
 
 1. Clone o repositório
 2. Altere a connetion string de acordo com seu ambiente e banco de dados
